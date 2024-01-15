@@ -1,0 +1,6 @@
+.logo {
+    width: 110px; height:30px;
+    margin: 15px 60px;
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2000px-Netflix_2015_logo.svg.png');
+    background-size: cover;
+  }
